@@ -1,0 +1,27 @@
+# Cadence/Xcelium generated files
+INCA_libs/
+xcelium.d/
+run/
+*.err
+*.log
+irun.history
+irun.key
+xrun.history
+xrun.key
+waves.shm/
+.bpad/
+# Other simulation artifacts
+simv
+simv.daidir/
+csrc/
+*.vvp
+*.vcd
+*.fst
+*.wlf
+ucli.key
+DVEfiles/
+
+# SoC C-test build and sim outputs
+sw/build/
+sim/soc/out/
+obj_dir/
